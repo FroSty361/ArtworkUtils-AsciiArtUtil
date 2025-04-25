@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+
+    <PackageId>Frosty.ArtworkUtils.AsciiArtUtil</PackageId>
+    <Version>1.0.0</Version>
+    <Author>Frosty</Author>
+    <Product>AsciiArtUtil</Product>
+    <Description>Utility Class For Ascii Art. Part Of The ArtworksUtils Product</Description>
+    <PackageTags>ascii art;art;ascii;cli;console;utility;frosty</PackageTags>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Drawing.Common" Version="9.0.4" />
+    <PackageReference Include="System.Windows.Extensions" Version="7.0.0" />
+  </ItemGroup>
+
+</Project>

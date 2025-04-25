@@ -1,0 +1,12 @@
+C:\VisualStudioCodeProjects\Practice\C#\AsciiArtUtil\bin\Release\net8.0\AsciiArtUtil.deps.json
+C:\VisualStudioCodeProjects\Practice\C#\AsciiArtUtil\bin\Release\net8.0\AsciiArtUtil.dll
+C:\VisualStudioCodeProjects\Practice\C#\AsciiArtUtil\bin\Release\net8.0\AsciiArtUtil.pdb
+C:\VisualStudioCodeProjects\Practice\C#\AsciiArtUtil\obj\Release\net8.0\AsciiArtUtil.csproj.AssemblyReference.cache
+C:\VisualStudioCodeProjects\Practice\C#\AsciiArtUtil\obj\Release\net8.0\AsciiArtUtil.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudioCodeProjects\Practice\C#\AsciiArtUtil\obj\Release\net8.0\AsciiArtUtil.AssemblyInfoInputs.cache
+C:\VisualStudioCodeProjects\Practice\C#\AsciiArtUtil\obj\Release\net8.0\AsciiArtUtil.AssemblyInfo.cs
+C:\VisualStudioCodeProjects\Practice\C#\AsciiArtUtil\obj\Release\net8.0\AsciiArtUtil.csproj.CoreCompileInputs.cache
+C:\VisualStudioCodeProjects\Practice\C#\AsciiArtUtil\obj\Release\net8.0\AsciiArtUtil.dll
+C:\VisualStudioCodeProjects\Practice\C#\AsciiArtUtil\obj\Release\net8.0\refint\AsciiArtUtil.dll
+C:\VisualStudioCodeProjects\Practice\C#\AsciiArtUtil\obj\Release\net8.0\AsciiArtUtil.pdb
+C:\VisualStudioCodeProjects\Practice\C#\AsciiArtUtil\obj\Release\net8.0\ref\AsciiArtUtil.dll
