@@ -60,7 +60,7 @@ namespace AsciiArtUtil
       return returnString.TrimEnd();
     }
 
-    public static List<string> GetAsciiImage(List<string> imageLocations, int width = 225, int height = 73)
+    public static List<string> GetAsciiImages(List<string> imageLocations, int width = 225, int height = 73)
     {
       List<string> images = new List<string>();
 
