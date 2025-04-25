@@ -17,7 +17,7 @@ namespace AsciiArtUtil
 
     public static void SetPixelSet(string newSet) => pixels = newSet;
   
-    public static string GetImageLink(string imageLocation, int width = 0, int height = 0)
+    public static string GetAsciiImage(string imageLocation, int width = 0, int height = 0)
     {
       if (!File.Exists(imageLocation))
       {
@@ -60,7 +60,7 @@ namespace AsciiArtUtil
       return returnString.TrimEnd();
     }
 
-    public static List<string> GetImageLinks(List<string> imageLocations, int width = 225, int height = 73)
+    public static List<string> GetAsciiImage(List<string> imageLocations, int width = 225, int height = 73)
     {
       List<string> images = new List<string>();
 
