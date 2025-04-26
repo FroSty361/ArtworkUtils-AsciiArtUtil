@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Utility Class For Ascii Art. Part Of The ArtworksUtils Product")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.1.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.1+c5ab7b5f5f0c001c0858bdfabc5e58124856fce7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.1+e8ef559ed41389738146e5d798cb7250dcc5ca79")]
 [assembly: System.Reflection.AssemblyProductAttribute("AsciiArtUtil")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AsciiArtUtil")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.1.0")]

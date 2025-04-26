@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Frosty.ArtworkUtils.AsciiArtUtil</id>
+    <version>1.0.1</version>
+    <authors>AsciiArtUtil</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>Utility Class For Ascii Art. Part Of The ArtworksUtils Product</description>
+    <tags>ascii art art ascii cli console utility frosty</tags>
+    <repository type="git" commit="e8ef559ed41389738146e5d798cb7250dcc5ca79" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="System.Drawing.Common" version="9.0.4" exclude="Build,Analyzers" />
+        <dependency id="System.Windows.Extensions" version="7.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\VisualStudioCodeProjects\Practice\C#\AsciiArtUtil\bin\Release\net8.0\AsciiArtUtil.dll" target="lib\net8.0\AsciiArtUtil.dll" />
+  </files>
+</package>

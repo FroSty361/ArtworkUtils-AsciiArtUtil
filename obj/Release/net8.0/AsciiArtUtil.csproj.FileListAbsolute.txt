@@ -10,3 +10,4 @@ C:\VisualStudioCodeProjects\Practice\C#\AsciiArtUtil\obj\Release\net8.0\AsciiArt
 C:\VisualStudioCodeProjects\Practice\C#\AsciiArtUtil\obj\Release\net8.0\refint\AsciiArtUtil.dll
 C:\VisualStudioCodeProjects\Practice\C#\AsciiArtUtil\obj\Release\net8.0\AsciiArtUtil.pdb
 C:\VisualStudioCodeProjects\Practice\C#\AsciiArtUtil\obj\Release\net8.0\ref\AsciiArtUtil.dll
+C:\VisualStudioCodeProjects\Practice\C#\AsciiArtUtil\obj\Release\net8.0\AsciiArtUtil.sourcelink.json
