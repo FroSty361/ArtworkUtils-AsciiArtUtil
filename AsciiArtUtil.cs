@@ -64,8 +64,6 @@ namespace AsciiArtUtil
     {
       List<string> images = new List<string>();
 
-      string space = "";
-
       foreach (var imageLocation in imageLocations)
       {
         if (!File.Exists(imageLocation))
@@ -75,27 +73,7 @@ namespace AsciiArtUtil
 
         string asciiImage = "";
 
-        var original = new Bitmap(imageLocation);
-
-        var image = new Bitmap(original, new Size(width, height));
-
-        asciiImage += space;
-
-        for (var y = 0; y < image.Height; y++)
-        {
-            for (var x = 0; x < image.Width; x++)
-            {
-            var color = image.GetPixel(x, y);
-            var brightness = Brightness(color);
-            var index = brightness / 255 * (pixels.Length - 1);
-            var pixel = pixels[pixels.Length - (int)Math.Round(index) - 1];
-            asciiImage += pixel;
-          }
-
-          asciiImage += '\n';
-
-          asciiImage += space;
-        }
+        asciiImage = GetAsciiImage(imageLocation, width, height);
 
         images.Add(asciiImage);
       }

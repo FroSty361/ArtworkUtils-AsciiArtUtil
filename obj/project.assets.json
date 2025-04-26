@@ -182,7 +182,7 @@
     "C:\\Users\\domin\\.nuget\\packages\\": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "restore": {
       "projectUniqueName": "C:\\VisualStudioCodeProjects\\Practice\\C#\\AsciiArtUtil\\AsciiArtUtil.csproj",
       "projectName": "Frosty.ArtworkUtils.AsciiArtUtil",
