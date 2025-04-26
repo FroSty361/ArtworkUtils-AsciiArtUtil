@@ -4,7 +4,7 @@ using static System.Console;
 
 namespace AsciiArtUtil
 {
-  static class AsciiArt
+  public static class AsciiArt
   {
     private static string pixels = " .-+*wGHM#&%";
 
